@@ -25,7 +25,7 @@ Check out the live demo of the project:
 ## Screenshots
 
 ### Desktop View
-![Homepage](Responsive-Fruits-And-Vegetables-Website-Design/Screenshots/Screenshot1.png)
+![Homepage](Screenshots/Screenshot1.png)
 
 
 
